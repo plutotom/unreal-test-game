@@ -12,3 +12,17 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.log
+*.ini
+*.bak
+*.bak.*
+*.orig
+*.tmp
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.user.props
+*.uproject.backup
+.DS_Store
+.generated/
+.idea/
